@@ -29,5 +29,5 @@ A simple Todo application built with **Flutter** that allows users to create, vi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/AvijitDasAvi/todo-app.git
 cd todo-app
